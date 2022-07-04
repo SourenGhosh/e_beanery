@@ -12,8 +12,8 @@ Billing Details and Address Reversal model are also there for billing and revers
 
 Apis two expose all data has been written in REST.Customer Can see only their prder but other role can see all order.Excluding customer other roles can change status so a permission decorator is used.
 
-
-
+APIs are available at localhost:8000/swagger
+ss
 
 ## Dependency
 Celery and flower has been used to async order generation and monitoring failed tasks
